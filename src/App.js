@@ -24,6 +24,7 @@ class App extends Component {
         {id:1, title:'HTML', desc:'Hypertext Markup Language'},
         {id:2, title:'CSS', desc:'CSS for design'},
         {id:3, title:'Javascript', desc:'Javascript for interaction'}
+        {id:4, title:'React', desc:'Single page Application'}
       ]
     };
   }
